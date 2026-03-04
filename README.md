@@ -36,7 +36,7 @@ Kapan dipakai?
 Saat tabel kanan dianggap sebagai data utama yang harus tampil semua
 
 CMD TOKO : 
-
+-
 Setting environment for using XAMPP for Windows.
 Deril@WORKPRO-LITE c:\xampp
 # mysql -u root
